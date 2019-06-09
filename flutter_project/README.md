@@ -2,7 +2,7 @@
 
 The flutter project we created during the workshop.
 
-![Showcase gif](https://www.sandromaglione.com/images/flutter_study_jam_gdg_08_june_2019.gif)
+[**Click here to see an example gif of the app**](https://www.sandromaglione.com/images/flutter_study_jam_gdg_08_june_2019.gif)
 
 The original app has three screens.
 
